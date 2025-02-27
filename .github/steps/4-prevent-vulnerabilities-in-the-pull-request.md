@@ -7,7 +7,7 @@
 
 ## Step 4: Prevent Vulnerabilities in the Pull Request
 
-_Nicely done! You finished Step 3: Fix Security Vulnerabilites! :partying_face:_
+_Nicely done! You finished Step 3: Fix Security Vulnerabilities! :partying_face:_
 
 Way to go! You made it this far. We're almost done! The last step is to test out the pull request integration with CodeQL. In this step, we will add a vulnerability back into the `routes.py` file to trigger an alert for a SQL injection vulnerability. This is going to be the same issue we initially saw.
 
